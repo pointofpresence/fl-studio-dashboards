@@ -17,6 +17,7 @@ Download the .zip file... unpack.
 ## Dashboard presets
 
 * Roland JP-08
+* Roland SE-02 _(by penneyfour from forum.image-line.com)_
 
 
 ## MIDI Out presets
