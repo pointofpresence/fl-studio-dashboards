@@ -13,10 +13,12 @@ Download the .zip file... unpack.
 3) Place files from `MIDI Out` into:
    `[your Image-Line folder]/[your FL Studio folder]/Data/Patches/Plugin presets/Generators/MIDI Out/`
 
+
 ## Dashboard presets
 
-...
+* Roland JP-08
 
 
 ## MIDI Out presets
+
 * Roland FA-06
