@@ -16,10 +16,22 @@ Download the .zip file... unpack.
 
 ## Dashboard presets
 
-* Roland JP-08
-* Roland SE-02 _(by penneyfour from forum.image-line.com)_
+### Roland JP-08
+
+author: ReSampled
+
+![Roland JP-08 dashboard](images/dashboard_roland_jp_08.png)
+  
+
+### Roland SE-02 
+
+author: penneyfour from forum.image-line.com
+
+![Roland SE-02 dashboard](images/dashboard_roland_se_02.png)
 
 
 ## MIDI Out presets
 
-* Roland FA-06
+### Roland FA-06/07/08
+
+![Roland FA-06/07/08 dashboard](images/midi_out_roland_fa_06.png)
