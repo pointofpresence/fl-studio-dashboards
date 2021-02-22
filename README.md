@@ -35,6 +35,11 @@ author: penneyfour from forum.image-line.com
 author: ReSampled
 
 
+### Roland FA-06/07/08 (Studio Set, patchlist only)
+
+author: ReSampled
+
+
 ### M-AUDIO Venom (patchlist only)
 
 author: ReSampled
