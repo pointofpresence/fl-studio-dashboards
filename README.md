@@ -30,7 +30,12 @@ author: penneyfour from forum.image-line.com
 ![Roland SE-02 dashboard](images/dashboard_roland_se_02.png)
 
 
-### Roland SH-01A
+### Roland SH-01A (patchlist only)
+
+author: ReSampled
+
+
+### M-AUDIO Venom (patchlist only)
 
 author: ReSampled
 
