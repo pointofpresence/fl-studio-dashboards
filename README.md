@@ -44,6 +44,8 @@ author: ReSampled
 
 author: ReSampled
 
+![Roland FA-06/07/08 Studio Set](images/dashboard_fa06_ss.png)
+
 
 ### M-AUDIO Venom (patchlist only)
 
