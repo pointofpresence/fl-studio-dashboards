@@ -56,6 +56,13 @@ author: ReSampled
 ![Roland INTEGRA-7](images/dashboard_integra-7_melodic.png)
 
 
+### Roland JD-XI (patchlist only)
+
+author: ReSampled
+
+![Roland JD-XI](images/dashboard_jd-xi.png)
+
+
 ### M-AUDIO Venom (patchlist only)
 
 author: ReSampled
