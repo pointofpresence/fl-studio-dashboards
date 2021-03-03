@@ -49,6 +49,13 @@ author: ReSampled
 ![Roland FA-06/07/08 Studio Set](images/dashboard_fa06_ss.png)
 
 
+### Roland INTEGRA-7 (Tones, patchlist only)
+
+author: ReSampled
+
+![Roland INTEGRA-7](images/dashboard_integra-7_melodic.png)
+
+
 ### M-AUDIO Venom (patchlist only)
 
 author: ReSampled
