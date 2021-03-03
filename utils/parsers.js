@@ -148,3 +148,57 @@
 	.join('\n')
 	)
 }
+
+
+///// JD-XI 
+
+{
+	const bank = ''
+    let cat = 'Analog'
+    let name
+	
+	const cats = [
+		'Strings/Pad', 'Lead', 'Bass', 'Keyboard', 'FX/Other', 'Seq', 'Brass'
+	]
+	
+	copy(`001 Toxic Bass 1 94 64 1`
+		.split('\n')
+		.map((i, idx) => {
+			let prepared = i.trim()            
+            let msb = prepared.split(' ').splice(-3, 1)
+	
+			if(!cat) {
+				cats.forEach(c => {
+                    if(!prepared.includes('@')) {
+					    prepared = prepared.replace(` ${c} ${msb} `, ` @${c} ${msb} `)
+                    }
+				})
+			}			
+			
+			const parts = prepared.split(' ')
+			const patch = Number(parts.splice(-1, 1)) - 1
+			const lsb = parts.splice(-1, 1) 
+			msb = parts.splice(-1, 1) 
+			const num = String(parts.splice(0, 1))
+            let newcat = ''
+
+            if(cat) {
+                name = parts.join(' ')
+            } else {
+                const nameparts = parts.join(' ').split("@")
+				
+				name = nameparts[0].trim()
+				
+				if(!nameparts[1]) {
+                    copy(nameparts[0])
+					throw new Error(nameparts[0] + " " + num)
+				}
+				
+                newcat = nameparts[1].trim()
+            }				
+
+			return `${cat || newcat}\\${bank}:${num}:${name}=${msb},${lsb},${patch}`
+		})
+		.join('\n')
+	)
+}

@@ -49,6 +49,8 @@ author: ReSampled
 
 author: ReSampled
 
+![M-AUDIO Venom](images/dashboar_m-audio_venom.png)
+
 
 ## MIDI Out presets
 
