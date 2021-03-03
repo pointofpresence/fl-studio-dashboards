@@ -39,6 +39,8 @@ author: ReSampled
 
 author: ReSampled
 
+![Roland FA-06/07/08 Tone](images/dashboard_fa06_tone.png)
+
 
 ### Roland FA-06/07/08 (Studio Set, patchlist only)
 
