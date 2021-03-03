@@ -34,6 +34,8 @@ author: penneyfour from forum.image-line.com
 
 author: ReSampled
 
+![Roland SH-01A](images/dashboard_sh-01a.png)
+
 
 ### Roland FA-06/07/08 (Tones, patchlist only)
 
