@@ -77,3 +77,7 @@ author: ReSampled
 ### Roland FA-06/07/08
 
 ![Roland FA-06/07/08 dashboard](images/midi_out_roland_fa_06.png)
+
+### Roland TB-03
+
+![Roland TB-03 dashboard](images/midi_out_roland_tb_03.png)
