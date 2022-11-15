@@ -74,10 +74,11 @@ author: ReSampled
 
 ## MIDI Out presets
 
-### Roland FA-06/07/08
+* [Korg Minilogue](MIDI Out/Korg Minilogue.fst)
+* [Roland FA-06](MIDI Out/Roland FA-06.fst)
+* [Roland INTEGRA-7](MIDI Out/Roland INTEGRA-7.fst)
+* [Roland JD-XI (Analog)](MIDI Out/Roland JD-XI (Analog).fst)
+* [Roland JD-XI (Drums)](MIDI Out/Roland JD-XI (Drums).fst)
+* [Roland JD-XI (SuperNATURAL)](MIDI Out/Roland JD-XI (SuperNATURAL).fst)
+* [Roland TB-03](MIDI Out/Roland TB-03.fst)
 
-![Roland FA-06/07/08 dashboard](images/midi_out_roland_fa_06.png)
-
-### Roland TB-03
-
-![Roland TB-03 dashboard](images/midi_out_roland_tb_03.png)
