@@ -78,7 +78,8 @@ author: ReSampled
 * [Roland FA-06](MIDI Out/Roland FA-06.fst)
 * [Roland INTEGRA-7](MIDI Out/Roland INTEGRA-7.fst)
 * [Roland JD-XI (Analog)](MIDI Out/Roland JD-XI (Analog).fst)
-* [Roland JD-XI (Drums)](MIDI Out/Roland JD-XI (Drums).fst)
+* [Roland JD-XI (Drums)](https://github.com/pointofpresence/fl-studio-dashboards/MIDI Out/Roland JD-XI (Drums).fst)
 * [Roland JD-XI (SuperNATURAL)](./MIDI Out/Roland JD-XI (SuperNATURAL).fst)
 * [Roland TB-03](/MIDI Out/Roland TB-03.fst)
+* This site was built using [GitHub Pages](https://pages.github.com/)
 
