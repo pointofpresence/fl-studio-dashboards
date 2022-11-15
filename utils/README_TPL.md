@@ -74,4 +74,4 @@ author: ReSampled
 
 ## MIDI Out presets
 
-<% midiOutPresets.forEach(function(preset) { %>* <a href="<%= preset.path %>"><%- preset.name %></a><%= '\n' %><% }); %>
+<% midiOutPresets.forEach(function(preset) { %>* <a href="<%= preset.path %>?raw=true"><%- preset.name %></a><%= '\n' %><% }); %>
