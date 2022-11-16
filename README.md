@@ -176,3 +176,75 @@
 <img src="Control Surface/Roland JD-XI mixer.fst.png" />
 
 
+
+
+## Пресеты Patcher (генератор)
+
+### Установка
+
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Generators/Patcher/`.
+
+
+### Пресеты
+
+
+### PROBABILITY
+<a href="Patcher (generator)/PROBABILITY.fst?raw=true">Скачать</a>
+
+<img src="Patcher (generator)/PROBABILITY.fst.png" />
+
+
+### SCALER
+<a href="Patcher (generator)/SCALER.fst?raw=true">Скачать</a>
+
+<img src="Patcher (generator)/SCALER.fst.png" />
+
+
+### Transistor bass MIDI
+<a href="Patcher (generator)/Transistor bass MIDI.fst?raw=true">Скачать</a>
+
+<img src="Patcher (generator)/Transistor bass MIDI.fst.png" />
+
+
+
+
+## Пресеты Patcher (эффект)
+
+### Установка
+
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Effects/Patcher/`.
+
+
+### Пресеты
+
+
+### ADVANCED DELAY
+<a href="Patcher (effect)/ADVANCED DELAY.fst?raw=true">Скачать</a>
+
+<img src="Patcher (effect)/ADVANCED DELAY.fst.png" />
+
+
+### ADVANCED VERB
+<a href="Patcher (effect)/ADVANCED VERB.fst?raw=true">Скачать</a>
+
+<img src="Patcher (effect)/ADVANCED VERB.fst.png" />
+
+
+### AMBIENCE
+<a href="Patcher (effect)/AMBIENCE.fst?raw=true">Скачать</a>
+
+<img src="Patcher (effect)/AMBIENCE.fst.png" />
+
+
+### AUTO PANNER
+<a href="Patcher (effect)/AUTO PANNER.fst?raw=true">Скачать</a>
+
+<img src="Patcher (effect)/AUTO PANNER.fst.png" />
+
+
+### ShitControl
+<a href="Patcher (effect)/ShitControl.fst?raw=true">Скачать</a>
+
+<img src="Patcher (effect)/ShitControl.fst.png" />
+
+

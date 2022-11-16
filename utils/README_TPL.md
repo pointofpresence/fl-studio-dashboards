@@ -1,77 +1,94 @@
-# FL Studio MIDI Dashboards
+# Коллекция полезностей для FL Studio
 
-## Installation instructions:
+## Пресеты Dashboard
 
-Download the .zip file... unpack.
+### Установка
 
-1) Place folders from `Artwork` into:
-   `[your Image-Line folder]/[your FL Studio folder]/Plugins/Fruity/Generators/Dashboard/Artwork/`
-
-2) Place files from `Dashboard` into:
-   `[your Image-Line folder]/[your FL Studio folder]/Data/Patches/Plugin presets/Generators/Dashboard/`
-
-3) Place files from `MIDI Out` into:
-   `[your Image-Line folder]/[your FL Studio folder]/Data/Patches/Plugin presets/Generators/MIDI Out/`
+1. Скачайте архив с репозиторием (или клонируйте)
+2. Скопируйте папки из `Artwork` в
+   `[папка Image-Line folder]/[папка FL Studio folder]/Plugins/Fruity/Generators/Dashboard/Artwork/`
+3. Скопируйте файлы из `Dashboard` в
+   `[папка Image-Line folder]/[папка FL Studio folder]/Data/Patches/Plugin presets/Generators/Dashboard/`
 
 
-## Dashboard presets
+### Пресеты
 
-### Roland JP-08
-
-author: ReSampled
-
-![Roland JP-08 dashboard](images/dashboard_roland_jp_08.png)
-  
-
-### Roland SE-02 
-
-author: penneyfour from forum.image-line.com
-
-![Roland SE-02 dashboard](images/dashboard_roland_se_02.png)
+<% dashboardPresets.forEach(function(preset) { %>
+### <%- preset.name %>
+<a href="<%= preset.path %>?raw=true">Скачать</a>
+<% if(preset.image) { %>
+<img src="<%= preset.image %>" />
+<% } %>
+<% }); %>
 
 
-### Roland SH-01A (patchlist only)
+## Пресеты MIDI Out
 
-author: ReSampled
+### Установка
 
-![Roland SH-01A](images/dashboard_sh-01a.png)
-
-
-### Roland FA-06/07/08 (Tones, patchlist only)
-
-author: ReSampled
-
-![Roland FA-06/07/08 Tone](images/dashboard_fa06_tone.png)
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Generators/MIDI Out/`.
 
 
-### Roland FA-06/07/08 (Studio Set, patchlist only)
+### Пресеты
 
-author: ReSampled
-
-![Roland FA-06/07/08 Studio Set](images/dashboard_fa06_ss.png)
-
-
-### Roland INTEGRA-7 (Tones, patchlist only)
-
-author: ReSampled
-
-![Roland INTEGRA-7](images/dashboard_integra-7_melodic.png)
+<% midiOutPresets.forEach(function(preset) { %>
+### <%- preset.name %>
+<a href="<%= preset.path %>?raw=true">Скачать</a>
+<% if(preset.image) { %>
+<img src="<%= preset.image %>" />
+<% } %>
+<% }); %>
 
 
-### Roland JD-XI (patchlist only)
+## Пресеты Control Surface
 
-author: ReSampled
+### Установка
 
-![Roland JD-XI](images/dashboard_jd-xi.png)
-
-
-### M-AUDIO Venom (patchlist only)
-
-author: ReSampled
-
-![M-AUDIO Venom](images/dashboard_m-audio_venom.png)
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Effects/Control Surface/`.
 
 
-## MIDI Out presets
+### Пресеты
 
-<% midiOutPresets.forEach(function(preset) { %>* <a href="<%= preset.path %>?raw=true"><%- preset.name %></a><%= '\n' %><% }); %>
+<% controlSurfacePresets.forEach(function(preset) { %>
+### <%- preset.name %>
+<a href="<%= preset.path %>?raw=true">Скачать</a>
+<% if(preset.image) { %>
+<img src="<%= preset.image %>" />
+<% } %>
+<% }); %>
+
+
+## Пресеты Patcher (генератор)
+
+### Установка
+
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Generators/Patcher/`.
+
+
+### Пресеты
+
+<% patcherGeneratorPresets.forEach(function(preset) { %>
+### <%- preset.name %>
+<a href="<%= preset.path %>?raw=true">Скачать</a>
+<% if(preset.image) { %>
+<img src="<%= preset.image %>" />
+<% } %>
+<% }); %>
+
+
+## Пресеты Patcher (эффект)
+
+### Установка
+
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Effects/Patcher/`.
+
+
+### Пресеты
+
+<% patcherEffectPresets.forEach(function(preset) { %>
+### <%- preset.name %>
+<a href="<%= preset.path %>?raw=true">Скачать</a>
+<% if(preset.image) { %>
+<img src="<%= preset.image %>" />
+<% } %>
+<% }); %>

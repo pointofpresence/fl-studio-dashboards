@@ -1,5 +1,25 @@
-robocopy "C:\Users\ReSampled\Documents\Image-Line\Data\FL Studio\Presets\Plugin presets\Generators\MIDI Out" "H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\MIDI Out" /e
+set source=G:\__documents\Image-Line\FL Studio
 
-robocopy "C:\Users\ReSampled\Documents\Image-Line\Data\FL Studio\Presets\Plugin presets\Generators\Dashboard" "H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard" /e
+set dest=H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard
 
-robocopy "C:\Users\ReSampled\Documents\Image-Line\Data\FL Studio\Presets\Plugin presets\Effects\Control Surface" "H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Control Surface" /e
+RD /S /Q "%dest%\MIDI Out"
+robocopy "%source%\Presets\Plugin presets\Generators\MIDI Out" "%dest%\MIDI Out" /e
+RD /S /Q "%dest%\MIDI Out\Old"
+
+RD /S /Q "%dest%\Dashboard"
+robocopy "%source%\Presets\Plugin presets\Generators\Dashboard" "%dest%\Dashboard" /e
+RD /S /Q "%dest%\Dashboard\Old"
+
+RD /S /Q "%dest%\Control Surface"
+robocopy "%source%\Presets\Plugin presets\Effects\Control Surface" "%dest%\Control Surface" /e
+RD /S /Q "%dest%\Control Surface\Old"
+
+RD /S /Q "%dest%\Patcher (generator)"
+robocopy "%source%\Presets\Plugin presets\Generators\Patcher" "%dest%\Patcher (generator)" /e
+RD /S /Q "%dest%\Patcher (generator)\Old"
+
+RD /S /Q "%dest%\Patcher (effect)"
+robocopy "%source%\Presets\Plugin presets\Effects\Patcher" "%dest%\Patcher (effect)" /e
+RD /S /Q "%dest%\Patcher (effect)\Old"
+
+node ./utils/genreadme.js
