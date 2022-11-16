@@ -5,8 +5,8 @@
 * [Пресеты Dashboard](#пресеты-dashboard)
 * [Пресеты MIDI Out](#пресеты-midi-out)
 * [Пресеты Control Surface](#пресеты-control-surface)
-* [Пресеты Patcher (генератор)](#пресеты-patcher-(генератор))
-* [Пресеты Patcher (эффект)](#пресеты-patcher-(эффект))
+* [Пресеты Patcher (генератор)](#пресеты-patcher-генератор)
+* [Пресеты Patcher (эффект)](#пресеты-patcher-эффект)
 <!--mdMenu-->
 
 ## Пресеты Dashboard

@@ -50,7 +50,10 @@ module.exports = function(data) {
       // Normalize header
       header = header.replace(/#{1,6}\s/g, '').trim();
       // Create links like md parser does
-      link = '#' + header.replace(/[&\/]/g, '').replace(/\s/g, '-').toLowerCase();
+      link = '#' + header
+        .replace(/[&\/()]/g, '')
+        .replace(/\s/g, '-')
+        .toLowerCase();
 
       return tabs + '[' + header + '](' + link + ')';
     })
