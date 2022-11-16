@@ -96,9 +96,34 @@
 
 ### Пресеты
 
-* <a href="Control Surface/BlendTwoInstruments.fst?raw=true">BlendTwoInstruments</a>
-* <a href="Control Surface/General MIDI mixer (16Ch).fst?raw=true">General MIDI mixer (16Ch)</a>
-* <a href="Control Surface/General MIDI mixer (1Ch).fst?raw=true">General MIDI mixer (1Ch)</a>
-* <a href="Control Surface/General MIDI mixer (8Ch).fst?raw=true">General MIDI mixer (8Ch)</a>
-* <a href="Control Surface/Roland JD-XI mixer.fst?raw=true">Roland JD-XI mixer</a>
+
+### BlendTwoInstruments
+<a href="Control Surface/BlendTwoInstruments.fst?raw=true">Скачать</a>
+
+<img src="Control Surface/BlendTwoInstruments.fst.png" />
+
+
+### General MIDI mixer (16Ch)
+<a href="Control Surface/General MIDI mixer (16Ch).fst?raw=true">Скачать</a>
+
+<img src="Control Surface/General MIDI mixer (16Ch).fst.png" />
+
+
+### General MIDI mixer (1Ch)
+<a href="Control Surface/General MIDI mixer (1Ch).fst?raw=true">Скачать</a>
+
+<img src="Control Surface/General MIDI mixer (1Ch).fst.png" />
+
+
+### General MIDI mixer (8Ch)
+<a href="Control Surface/General MIDI mixer (8Ch).fst?raw=true">Скачать</a>
+
+<img src="Control Surface/General MIDI mixer (8Ch).fst.png" />
+
+
+### Roland JD-XI mixer
+<a href="Control Surface/Roland JD-XI mixer.fst?raw=true">Скачать</a>
+
+<img src="Control Surface/Roland JD-XI mixer.fst.png" />
+
 
