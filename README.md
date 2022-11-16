@@ -74,7 +74,6 @@
 ### Пресеты
 
 * <a href="MIDI Out/Behringer DeepMind 12.fst?raw=true">Behringer DeepMind 12</a>
-* <a href="MIDI Out/Behringer Model D.fst?raw=true">Behringer Model D</a>
 * <a href="MIDI Out/Korg Minilogue.fst?raw=true">Korg Minilogue</a>
 * <a href="MIDI Out/Roland FA-06.fst?raw=true">Roland FA-06</a>
 * <a href="MIDI Out/Roland INTEGRA-7.fst?raw=true">Roland INTEGRA-7</a>
