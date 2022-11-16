@@ -17,49 +17,49 @@
 ### M-AUDIO Venom
 <a href="Dashboard/M-AUDIO Venom.fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\M-AUDIO Venom.fst.png" />
+<img src="Dashboard/M-AUDIO Venom.fst.png" />
 
 
 ### Roland FA-06 (Studio Set)
 <a href="Dashboard/Roland FA-06 (Studio Set).fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland FA-06 (Studio Set).fst.png" />
+<img src="Dashboard/Roland FA-06 (Studio Set).fst.png" />
 
 
 ### Roland FA-06 (Tone)
 <a href="Dashboard/Roland FA-06 (Tone).fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland FA-06 (Tone).fst.png" />
+<img src="Dashboard/Roland FA-06 (Tone).fst.png" />
 
 
 ### Roland INTEGRA-7 (Melodic Tone)
 <a href="Dashboard/Roland INTEGRA-7 (Melodic Tone).fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland INTEGRA-7 (Melodic Tone).fst.png" />
+<img src="Dashboard/Roland INTEGRA-7 (Melodic Tone).fst.png" />
 
 
 ### Roland JD-XI
 <a href="Dashboard/Roland JD-XI.fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland JD-XI.fst.png" />
+<img src="Dashboard/Roland JD-XI.fst.png" />
 
 
 ### Roland JP-08
 <a href="Dashboard/Roland JP-08.fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland JP-08.fst.png" />
+<img src="Dashboard/Roland JP-08.fst.png" />
 
 
 ### Roland SE-02
 <a href="Dashboard/Roland SE-02.fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland SE-02.fst.png" />
+<img src="Dashboard/Roland SE-02.fst.png" />
 
 
 ### Roland SH-01A
 <a href="Dashboard/Roland SH-01A.fst?raw=true">Скачать</a>
 
-<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland SH-01A.fst.png" />
+<img src="Dashboard/Roland SH-01A.fst.png" />
 
 
 
