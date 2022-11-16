@@ -72,7 +72,7 @@ author: ReSampled
 ![M-AUDIO Venom](images/dashboard_m-audio_venom.png)
 
 
-## MIDI Out presets
+## Пресеты MIDI Out
 
 * <a href="MIDI Out/Behringer DeepMind 12.fst?raw=true">Behringer DeepMind 12</a>
 * <a href="MIDI Out/Behringer Model D.fst?raw=true">Behringer Model D</a>
@@ -85,4 +85,13 @@ author: ReSampled
 * <a href="MIDI Out/Roland MC-707.fst?raw=true">Roland MC-707</a>
 * <a href="MIDI Out/Roland SE-02.fst?raw=true">Roland SE-02</a>
 * <a href="MIDI Out/Roland TB-03.fst?raw=true">Roland TB-03</a>
+
+
+## Пресеты Control Surface
+
+* <a href="Control Surface/BlendTwoInstruments.fst?raw=true">BlendTwoInstruments</a>
+* <a href="Control Surface/General MIDI mixer (16Ch).fst?raw=true">General MIDI mixer (16Ch)</a>
+* <a href="Control Surface/General MIDI mixer (1Ch).fst?raw=true">General MIDI mixer (1Ch)</a>
+* <a href="Control Surface/General MIDI mixer (8Ch).fst?raw=true">General MIDI mixer (8Ch)</a>
+* <a href="Control Surface/Roland JD-XI mixer.fst?raw=true">Roland JD-XI mixer</a>
 
