@@ -1,4 +1,4 @@
-# FL Studio MIDI Dashboards, MIDI outs and Patcher presets
+# Коллекция полезностей для FL Studio
 
 ## Installation instructions:
 
@@ -10,15 +10,14 @@ Download the .zip file... unpack.
 2) Place files from `Dashboard` into:
    `[your Image-Line folder]/[your FL Studio folder]/Data/Patches/Plugin presets/Generators/Dashboard/`
 
-3) Place files from `MIDI Out` into:
-   `[your Image-Line folder]/[your FL Studio folder]/Data/Patches/Plugin presets/Generators/MIDI Out/`
 
 
-## Dashboard presets
+
+## Пресеты Dashboard
 
 ### Roland JP-08
 
-author: ReSampled
+автор: ReSampled
 
 ![Roland JP-08 dashboard](images/dashboard_roland_jp_08.png)
   
@@ -73,6 +72,13 @@ author: ReSampled
 
 
 ## Пресеты MIDI Out
+
+### Установка
+
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Generators/MIDI Out/`.
+
+
+### Пресеты
 
 * <a href="MIDI Out/Behringer DeepMind 12.fst?raw=true">Behringer DeepMind 12</a>
 * <a href="MIDI Out/Behringer Model D.fst?raw=true">Behringer Model D</a>
