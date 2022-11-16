@@ -93,7 +93,15 @@ author: ReSampled
 * <a href="MIDI Out/Roland TB-03.fst?raw=true">Roland TB-03</a>
 
 
+
 ## Пресеты Control Surface
+
+### Установка
+
+Скачайте файл пресета и поместите в `[папка Image-Line]/[папка FL Studio]/Data/Patches/Plugin presets/Effects/Control Surface/`.
+
+
+### Пресеты
 
 * <a href="Control Surface/BlendTwoInstruments.fst?raw=true">BlendTwoInstruments</a>
 * <a href="Control Surface/General MIDI mixer (16Ch).fst?raw=true">General MIDI mixer (16Ch)</a>
