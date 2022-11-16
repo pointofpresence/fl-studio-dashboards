@@ -73,16 +73,66 @@
 
 ### Пресеты
 
-* <a href="MIDI Out/Behringer DeepMind 12.fst?raw=true">Behringer DeepMind 12</a>
-* <a href="MIDI Out/Korg Minilogue.fst?raw=true">Korg Minilogue</a>
-* <a href="MIDI Out/Roland FA-06.fst?raw=true">Roland FA-06</a>
-* <a href="MIDI Out/Roland INTEGRA-7.fst?raw=true">Roland INTEGRA-7</a>
-* <a href="MIDI Out/Roland JD-XI (Analog).fst?raw=true">Roland JD-XI (Analog)</a>
-* <a href="MIDI Out/Roland JD-XI (Drums).fst?raw=true">Roland JD-XI (Drums)</a>
-* <a href="MIDI Out/Roland JD-XI (SuperNATURAL).fst?raw=true">Roland JD-XI (SuperNATURAL)</a>
-* <a href="MIDI Out/Roland MC-707.fst?raw=true">Roland MC-707</a>
-* <a href="MIDI Out/Roland SE-02.fst?raw=true">Roland SE-02</a>
-* <a href="MIDI Out/Roland TB-03.fst?raw=true">Roland TB-03</a>
+
+### Behringer DeepMind 12
+<a href="MIDI Out/Behringer DeepMind 12.fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Behringer DeepMind 12.fst.png" />
+
+
+### Korg Minilogue
+<a href="MIDI Out/Korg Minilogue.fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Korg Minilogue.fst.png" />
+
+
+### Roland FA-06
+<a href="MIDI Out/Roland FA-06.fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland FA-06.fst.png" />
+
+
+### Roland INTEGRA-7
+<a href="MIDI Out/Roland INTEGRA-7.fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland INTEGRA-7.fst.png" />
+
+
+### Roland JD-XI (Analog)
+<a href="MIDI Out/Roland JD-XI (Analog).fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland JD-XI (Analog).fst.png" />
+
+
+### Roland JD-XI (Drums)
+<a href="MIDI Out/Roland JD-XI (Drums).fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland JD-XI (Drums).fst.png" />
+
+
+### Roland JD-XI (SuperNATURAL)
+<a href="MIDI Out/Roland JD-XI (SuperNATURAL).fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland JD-XI (SuperNATURAL).fst.png" />
+
+
+### Roland MC-707
+<a href="MIDI Out/Roland MC-707.fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland MC-707.fst.png" />
+
+
+### Roland SE-02
+<a href="MIDI Out/Roland SE-02.fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland SE-02.fst.png" />
+
+
+### Roland TB-03
+<a href="MIDI Out/Roland TB-03.fst?raw=true">Скачать</a>
+
+<img src="MIDI Out/Roland TB-03.fst.png" />
+
 
 
 
