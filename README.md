@@ -1,74 +1,67 @@
 # Коллекция полезностей для FL Studio
 
-## Installation instructions:
-
-Download the .zip file... unpack.
-
-1) Place folders from `Artwork` into:
-   `[your Image-Line folder]/[your FL Studio folder]/Plugins/Fruity/Generators/Dashboard/Artwork/`
-
-2) Place files from `Dashboard` into:
-   `[your Image-Line folder]/[your FL Studio folder]/Data/Patches/Plugin presets/Generators/Dashboard/`
-
-
-
-
 ## Пресеты Dashboard
 
+### Установка
+
+1. Скачайте архив с репозиторием (или клонируйте)
+2. Скопируйте папки из `Artwork` в
+   `[папка Image-Line folder]/[папка FL Studio folder]/Plugins/Fruity/Generators/Dashboard/Artwork/`
+3. Скопируйте файлы из `Dashboard` в
+   `[папка Image-Line folder]/[папка FL Studio folder]/Data/Patches/Plugin presets/Generators/Dashboard/`
+
+
+### Пресеты
+
+
+### M-AUDIO Venom
+<a href="Dashboard/M-AUDIO Venom.fst?raw=true">Скачать</a>
+
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\M-AUDIO Venom.fst.png" />
+
+
+### Roland FA-06 (Studio Set)
+<a href="Dashboard/Roland FA-06 (Studio Set).fst?raw=true">Скачать</a>
+
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland FA-06 (Studio Set).fst.png" />
+
+
+### Roland FA-06 (Tone)
+<a href="Dashboard/Roland FA-06 (Tone).fst?raw=true">Скачать</a>
+
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland FA-06 (Tone).fst.png" />
+
+
+### Roland INTEGRA-7 (Melodic Tone)
+<a href="Dashboard/Roland INTEGRA-7 (Melodic Tone).fst?raw=true">Скачать</a>
+
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland INTEGRA-7 (Melodic Tone).fst.png" />
+
+
+### Roland JD-XI
+<a href="Dashboard/Roland JD-XI.fst?raw=true">Скачать</a>
+
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland JD-XI.fst.png" />
+
+
 ### Roland JP-08
+<a href="Dashboard/Roland JP-08.fst?raw=true">Скачать</a>
 
-автор: ReSampled
-
-![Roland JP-08 dashboard](images/dashboard_roland_jp_08.png)
-  
-
-### Roland SE-02 
-
-author: penneyfour from forum.image-line.com
-
-![Roland SE-02 dashboard](images/dashboard_roland_se_02.png)
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland JP-08.fst.png" />
 
 
-### Roland SH-01A (patchlist only)
+### Roland SE-02
+<a href="Dashboard/Roland SE-02.fst?raw=true">Скачать</a>
 
-author: ReSampled
-
-![Roland SH-01A](images/dashboard_sh-01a.png)
-
-
-### Roland FA-06/07/08 (Tones, patchlist only)
-
-author: ReSampled
-
-![Roland FA-06/07/08 Tone](images/dashboard_fa06_tone.png)
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland SE-02.fst.png" />
 
 
-### Roland FA-06/07/08 (Studio Set, patchlist only)
+### Roland SH-01A
+<a href="Dashboard/Roland SH-01A.fst?raw=true">Скачать</a>
 
-author: ReSampled
-
-![Roland FA-06/07/08 Studio Set](images/dashboard_fa06_ss.png)
-
-
-### Roland INTEGRA-7 (Tones, patchlist only)
-
-author: ReSampled
-
-![Roland INTEGRA-7](images/dashboard_integra-7_melodic.png)
+<img src="H:\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard\Roland SH-01A.fst.png" />
 
 
-### Roland JD-XI (patchlist only)
-
-author: ReSampled
-
-![Roland JD-XI](images/dashboard_jd-xi.png)
-
-
-### M-AUDIO Venom (patchlist only)
-
-author: ReSampled
-
-![M-AUDIO Venom](images/dashboard_m-audio_venom.png)
 
 
 ## Пресеты MIDI Out
