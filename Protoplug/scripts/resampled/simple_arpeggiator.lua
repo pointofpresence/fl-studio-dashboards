@@ -50,12 +50,12 @@ root2arp(65, 50, {0,4,7,11})
 function root2arp(root,timestep,chordTemplate)
 	notes = {}
     t = 0
-    
+
 	for _,oset in ipairs(chordTemplate) do
 		table.insert(notes,{root+oset,t})
         t = t + timestep
 	end
-	
+
 	return notes
 end
 
@@ -87,25 +87,25 @@ these functions are just concerned with adding these tuples to the futureBuffer
 
 --]]
 
-function noteDur() 
+function noteDur()
   bpm =  plugin.getCurrentPosition().bpm
-  return 60 / bpm * plugin.getSampleRate()
+  return 60.0 / bpm * plugin.getSampleRate()
 end
 
 
 function myNoteOn(futureBuffer, chan, root, vel)
-  noteDuration = noteDur()  
+  noteDuration = noteDur()
   arp = root2arp(root,noteDuration,CHORD_TEMPLATE)
-  
+
   for k,v in ipairs(arp) do
     table.insert(futureBuffer,{NOTE_ON,chan,v[1],v[2],vel})
   end
 end
 
 function myNoteOff(futureBuffer, chan, root)
-  noteDuration = noteDur()  
+  noteDuration = noteDur()
   arp = root2arp(root,noteDuration,CHORD_TEMPLATE)
-  
+
   for k,v in ipairs(arp) do
     table.insert(futureBuffer,{NOTE_OFF,chan,v[1],v[2]})
   end
@@ -141,7 +141,7 @@ function plugin.processBlock(samples, smax, midiBuf)
 			myNoteOff(FUTURE_BUFFER, ev:getChannel(), ev:getNote())
 		end
 	end
-	
+
     -- clear the midiBuf
 	midiBuf:clear()
 
@@ -151,25 +151,25 @@ function plugin.processBlock(samples, smax, midiBuf)
 		for k,v in ipairs(FUTURE_BUFFER) do
 		    -- we get k = index numbers (STARTING AT 1)
 		    -- and v = one of the tuples eg. { 1,9,120,0,64,}
-		    
+
 		    -- test if this event is now current, v[4] is time
-		    if v[4] < 1 then		    
+		    if v[4] < 1 then
 		        -- it's ready to pop
 		        -- make a real midi event
 		        local mEv
-		        
+
 		        -- but we need to know if it's a noteOn or noteOff event
 		        if v[1] == NOTE_ON then
                     mEv = midi.Event.noteOn(v[2],v[3],v[5])
                 else
                     mEv = midi.Event.noteOff(v[2],v[3])
                 end
-                
+
 		        midiBuf:addEvent(mEv)
 			    table.remove(FUTURE_BUFFER,k)
 			else
 			    -- it's still in the future,
-			    -- so just decrement the time		    
+			    -- so just decrement the time
 			    v[4] = v[4] - smax - 1
 			end
 		end
